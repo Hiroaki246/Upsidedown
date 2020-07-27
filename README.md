@@ -1,1 +1,6 @@
-Upsidedown
+<h1>Upsidedown-Demo</h1>
+Upsidedownは裏の世界、影の世界をテーマとしたゲームです。
+
+現在デモとしてオープンソースで公開しています。
+
+<h2>ゲームについて</h2>
