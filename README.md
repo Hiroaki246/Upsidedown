@@ -40,6 +40,6 @@ Upsidedownは裏の世界、影の世界をテーマとしたゲームです。
 
 ## 開発環境
 * ゲームエンジン：Unity(2018.4.15f)
-* 使用フォント：
 * アセット
- * xxx
+  * Platformer Microgame
+  * Deep In Space
