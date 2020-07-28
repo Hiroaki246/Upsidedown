@@ -26,6 +26,13 @@ Upsidedownは裏の世界、影の世界をテーマとしたゲームです。
 |:-:|
 |  <img width="500" alt="start" src="IMG_start.PNG">|
 
+スライムと衝突または足場から落ちてしまうとプレイヤーは死亡し
+スタート位置にリスポーンされます。
+| プレイ画面 |
+|:-:|
+|  スライムに衝突
+  <img width="500" alt="start" src="https://github.com/Hiroaki246/Upsidedown/blob/master/Upsidedown-death001.gif">|
+
 ## インストール方法
 現在、アプリの配信は行っていません。
 
