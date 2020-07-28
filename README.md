@@ -16,7 +16,7 @@ Upsidedownは裏の世界、影の世界をテーマとしたゲームです。
 このゲームはスマートフォン、タブレットを利用してプレイします。
 | プレイ画面 |
 |:-:|
-|  <img width="500" alt="start" src="IMG_play.PNG">|
+|  <img width="500" alt="play" src="IMG_play.PNG">|
 
 操作にジャイロセンサーを採用し、端末を傾けることでプレイヤーを動かし
 タップでジャンプするシンプルな横スクロールアクションゲームになっています。
@@ -31,7 +31,9 @@ Upsidedownは裏の世界、影の世界をテーマとしたゲームです。
 | プレイ画面 |
 |:-:|
 |  スライムに衝突
-  <img width="500" alt="start" src="https://github.com/Hiroaki246/Upsidedown/blob/master/Upsidedown-death001.gif">|
+  <img width="500" alt="death1" src="https://github.com/Hiroaki246/Upsidedown/blob/master/Upsidedown-death001.gif">|
+|  足場から落ちる
+  <img width="500" alt="death2" src="https://github.com/Hiroaki246/Upsidedown/blob/master/Upsidedown-death002.gif">|
 
 ## インストール方法
 現在、アプリの配信は行っていません。
